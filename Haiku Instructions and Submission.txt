@@ -35,10 +35,10 @@ I long for Kyoto.
 Write your own Haiku here:
 
 
-1.
+1. 
 2.
 3.
-
+4. It's Friday.
 
 
 
