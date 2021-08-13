@@ -36,8 +36,13 @@ Write your own Haiku here:
 
 
 1.
+
+2.
+3.Hello everyone.
+
 2. I hope everyone is doing well. 
 3.
+
 
 
 
